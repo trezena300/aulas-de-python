@@ -3,8 +3,8 @@
 ## tipos primitivos: string, number(int/float),bolean
 para saber mais,
 
-###operadores aritmeticos
-###operadores logicos/comparativos
+### operadores aritmeticos
+### operadores logicos/comparativos
 ### if/elif/else
 
 **tipos de estruturas condicionais**
